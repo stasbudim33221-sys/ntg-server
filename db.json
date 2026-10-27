@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1793108185375,
+      "username": "SAS",
+      "password": "$2b$10$Ng299UW2qHoWdMUe6BH.su0WXsVo06tWa8Fb7GMUc81VH1o1cHQ7e"
+    },
+    {
+      "id": 1793108260325,
+      "username": "Stas",
+      "password": "$2b$10$n7gWXZx25DhRfNnD1sACqudBsYt9nL1sQzLb3FQljZN0vB81Ous2q"
+    },
+    {
+      "id": 1793108287130,
+      "username": "dededs",
+      "password": "$2b$10$9gibjm9qY4CSoq9mGLkoV.PFqoFK.czp6Q0U9rM//Qr0iF6BUzDC6"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1793108401062,
+      "text": "ЫЫ",
+      "sender": "Stas",
+      "chatId": 1,
+      "time": "16:40"
+    },
+    {
+      "id": 1793108406533,
+      "text": "САЛАМ",
+      "sender": "dededs",
+      "chatId": 1,
+      "time": "16:40"
+    }
+  ]
+}
